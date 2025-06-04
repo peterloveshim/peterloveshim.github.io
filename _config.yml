@@ -1,7 +1,7 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
+title:            Dev Blog
+longtitle:        Peter's Dev Blog
+author:           peterloveshim
 email:            peterloveshim@gmail.com
 description: >
   Build Jekyll site with the GitBook style.
@@ -36,7 +36,7 @@ kramdown:
   syntax_highlighter_opts:
     guess_lang:           true
 
-syntax_highlighter_style: colorful
+syntax_highlighter_style: magritte
 
 markdown_ext:             markdown,mkdown,mkdn,mkd,md
 
